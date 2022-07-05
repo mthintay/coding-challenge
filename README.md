@@ -5,6 +5,7 @@ This API will import data from a third party API using Laravel's artisan command
 ## Features
 - RESTful routing
 - Uses Laravel Doctrine as the database layer
+- PHPUnit tests
 
 ## Basic Usage
 ```
