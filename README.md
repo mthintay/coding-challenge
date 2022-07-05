@@ -11,6 +11,7 @@ This API will import data from a third party API using Laravel's artisan command
 ```
 php artisan import:data {count}
 ```
+Note: {count} is optional and will default to 1.
 
 ## API Endpoints
 | Method | URI             | Action                                        |
